@@ -18,6 +18,8 @@ pipeline {
 
      maven 'mymaven'
      jdk 'java11'
+     git 'newgit'
+	 
  }
 
  stages {
